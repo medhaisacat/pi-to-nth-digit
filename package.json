@@ -1,0 +1,23 @@
+{
+  "name": "pi-to-nth-digit",
+  "version": "1.0.0",
+  "description": "Enter a number in console and the program generates PI up to that many decimal places. Program written for git practice purposes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medhasn/pi-to-nth-digit.git"
+  },
+  "keywords": [
+    "pi"
+  ],
+  "author": "Medha S N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medhasn/pi-to-nth-digit/issues"
+  },
+  "homepage": "https://github.com/medhasn/pi-to-nth-digit#readme"
+}
